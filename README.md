@@ -1,6 +1,6 @@
 # complete-UI-design-clone
 Zaio upskilling attempt
-netlify link:
+netlify link: https://my-first-netlify-deployment.netlify.app/
 
 Answers to the questions:
 
